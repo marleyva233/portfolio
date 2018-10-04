@@ -31,7 +31,7 @@ Black: #000000;
 body { color: #363b3f; background: #f7f8f8; }
 
 .section { padding: 30px 0 50px 0px; }
-.section h1, .section h2, .section h3, .section h4 { font-family: "Lato", sans-serif; font-weight: 700; color: #d82c2e; }
+.section h1, .section h2, .section h3, .section h4 { font-family: "Lato", sans-serif; font-weight: 700; color: #77AAAD; }
 .section p { font-family: "Lato", sans-serif; font-weight: 400; font-size: 15px; line-height: 24px; }
 .section .heading { text-align: center; padding-bottom: 40px; }
 .section .profilePic { text-align: center; margin: 0 auto; float: none; }
@@ -74,21 +74,21 @@ section .centered { margin: 0 auto; float: none; }
 /*------------------------------------------------------------------
 [2. Navbar]
 -------------------------------------------------------------------*/
-.navbar-flat { background: #d82c2e; margin-bottom: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; -ms-border-radius: 0px; -o-border-radius: 0px; border-radius: 0px; }
+.navbar-flat { background: #6E7783; margin-bottom: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; -ms-border-radius: 0px; -o-border-radius: 0px; border-radius: 0px; }
 .navbar-flat .navbar-collapse { text-align: center; }
 .navbar-flat .navbar-toggle .icon-bar { background: white; }
 .navbar-flat ul { float: none; }
 .navbar-flat li { display: inline-block; float: none; }
-.navbar-flat li a:hover { background: #c12728; color: white; }
+.navbar-flat li a:hover { background: #D8E6E7; color: white; }
 .navbar-flat li a:focus { background: #c12728; color: white; }
-.navbar-flat li.active a { background: #c12728; color: white; }
+.navbar-flat li.active a { background: #77AAAD; color: white; }
 .navbar-flat a { font-family: "Lato", sans-serif; font-weight: 700; color: #f7f8f8; -webkit-transition: all 0.3s ease-in, 1s; -moz-transition: all 0.3s ease-in, 1s; -o-transition: all 0.3s ease-in, 1s; -ms-transition: all 0.3s ease-in, 1s; transition: all 0.3s ease-in, 1s; }
 .navbar-flat .navbar-brand { display: none; }
 
 /*------------------------------------------------------------------
 [3. About]
 -------------------------------------------------------------------*/
-.hero { background: #d82c2e; color: white; }
+.hero { background: #6E7783; color: white; }
 .hero .borderBtn, .hero .contactform button, .contactform .hero button { margin-top: 20px; }
 .hero h3 { color: black !important; }
 
@@ -127,7 +127,7 @@ section .centered { margin: 0 auto; float: none; }
 /*------------------------------------------------------------------
 [4. Skills]
 -------------------------------------------------------------------*/
-section.skills { background: #d82c2e; }
+section.skills { background: #77AAAD; }
 section.skills h4 { color: black !important; }
 
 .skill { margin: 0 auto 20px auto; float: none; text-align: center; }
@@ -208,7 +208,7 @@ section.contact .details p.bigger { font-size: 40px; font-weight: 700; margin-to
 .contactform .error, .contactform .form-error { border-color: #c12728 !important; }
 .contactform .no-margin { margin-right: 0px; }
 .contactform input.col-lg-6 { width: 48.5%; }
-.contactform button { background: #d82c2e; }
+.contactform button { background: #77AAAD; }
 .contactform button:hover, .contactform button:focus { border-color: #d82c2e; }
 .contactform p { text-align: center; }
 
